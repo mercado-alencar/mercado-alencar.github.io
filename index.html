@@ -1,94 +1,181 @@
+<!-- MVP.css quickstart template: https://github.com/andybrewer/mvp/ -->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
+    <link rel="icon" href="https://via.placeholder.com/70x70">
+    <link rel="stylesheet" href="https://andybrewer.github.io/mvp/mvp.css">
+
+    <meta charset="utf-8">
+    <meta name="description" content="My description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Mercado Alencar</title>
+
+
+    <style type="text/css">
+        :root {
+            
+        }
+        html, body {
+        margin: 0;
+        padding: 0
+        }
+        a b, a em, a i, a strong, button{
+
+             padding: .5rem 2rem;
+        }
+
+        body {
+            scroll-behavior: smooth;
+        }
+
+        dt {
+            font-weight: bold;
+            font-size: .8rem
+        }
+        dd {
+            font-size: .9rem
+        }
+
+        dd a ,
+         dd a:visited ,
+          dd a:active ,
+           dd a:link{
+            color: var( --color);
+            text-decoration: none;
+            font-style: italic;
+        }
+      nav {
+        padding: 0px;
+        background: var( --color);
+        color:var(--color-bg);
+        }
+
+
+        nav a ,
+         nav a:visited ,
+          nav a:active ,
+           nav a:link{
+            color: white ;
+            text-decoration: none;
+            font-style: italic;
+            border: 2px solid transparent;
+            transition: border 300ms ease;
+        }
+
+       nav a:hover {
+        border-bottom-color: white;
+        }
+
+        header {
+            padding: 0 ;
+        }
+
+        hr {
+    transform: skewY(3deg);
+            background-color: var(--color);
+        }
+
+         article aside {
+                border-left-color: var(--color);
+         }
+
+
+    </style>
 </head>
-<style>
-    body,
-    html {
-        margin: 0;
-        padding: 0;
-        font-size: 12px
-    }
-
-    body * {
-        font-family: sans-serif;
-        box-sizing: border-box;
-        display: block;
-        position: relative;
-        transition: all 500ms ease;
-    }
-
-    header,
-    main,
-    footer {
-        display: block;
-        position: relative;
-        width: 100%;
-    }
-
-    main {
-        min-height: calc(100vh - 210px);
-        padding: 20px;
-        background: #c8ddf5;
-    }
-
-    header {
-        height: 50px
-    }
-
-    footer {
-        padding: 5px;
-        min-height: 100px;
-        background: #212121;
-        color: white;
-    }
-
-    header {
-        background: #428cff;
-        padding: 5px;
-    }
-
-    img {
-        height: 40px;
-    }
-
-    dl {
-        margin: 0;
-    }
-
-    a,
-    a:visited,
-    a:active,
-    a:link {
-        color: white;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-shadow: 0px 0px 3px #428cff;
-    color: #c8ddf5;
-    }
-    
-</style>
 
 <body>
     <header>
-
-        <img src="cestinha.png">
+        <nav>
+            <a href="/"><img alt="Logo" src="cestinha.png" height="70"></a>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#sacoloes">Sacolões</a></li>
+                <li><a href="#contato">Contato</a></li>                
+            </ul>
+        </nav>
+         <figure>
+                <img alt="Stock photo" src="cover.png" style="width: 100%; margin: auto">
+                <figcaption><i>O nosso Mercado</i></figcaption>
+            </figure>
+        <br>
     </header>
     <main>
-        <h3>Bem vindo ao Mercado Alencar!</h3>
+        <hr>
+     <section>
+            <header>
+                <h2>Sobre</h2>
+                <p>O Mercado Alencar nasceu em 1999, com orgulho de ser uma empresa familiar. </p>
+                <p>Temos como principal motivação levar até você os produtos que procura, com qualidade e preços justos. </p>
 
-        <div>
-        </div>
+
+                <h1>A nossa família atende a sua.</h1>
         
+            </header>
+         
+        </section>
+        <hr> 
+        <section id="sacoloes">
+            <header>
+                <h2>O Nosso Sacolão</h2>
+                </header>
+               <aside>
+                <h3><small>R$</small>50,00</h3>
+                <p><small>Alimenta um adulto.</small></p>
+                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 50?"><i>Quero saber o que vem</i></a>
+                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 50"><b>Quero um</b></a></p>
+            </aside>
+            <aside>
+                <h3><small>R$</small>100,00</h3>
+                <p><small>Alimenta dois adultos.</small></p>
+                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 100?"><i>Quero saber o que vem</i></a>
+                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 100"><b>Quero um</b></a></p>
+            </aside>
+            <aside>
+                <h3><small>R$</small>150,00</h3>
+                <p><small>Alimenta dois adulto e uma criança.</small></p>
+                 <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 150?"><i>Quero saber o que vem</i></a>
+                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 150"><b>Quero um</b></a></p>
+            </aside>
+
+            <aside>
+                <h3><small>R$</small>200,00</h3>
+                <p><small>Alimenta três adultos ou dois adultos e duas crianças.</small></p>
+                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 200?"><i>Quero saber o que vem</i></a>
+                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 200"><b>Quero um</b></a></p>
+            </aside>
+
+            <aside>
+                <h3><small>R$</small>300,00</h3>
+                <p><small>Alimenta a família inteira.</small></p>
+                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 300?"><i>Quero saber o que vem</i></a>
+                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 300"><b>Quero um</b></a></p>
+            </aside>
+        <hr>
+        <article>
+            <figure>
+                <img alt="Stock photo" src="cover.png" style="width: 100%; margin: auto">
+                <figcaption><i>O nosso Mercado</i></figcaption>
+            </figure>
+        </article>
+       
+        <hr>
+       <!-- <section>
+            <blockquote>
+                "Quote"
+                <footer><i>- Attribution</i></footer>
+            </blockquote>
+        </section>
+         <hr> -->
     </main>
-    <footer>
-        <dl>
+    <footer id="contato">
+          <header>
+                <h2>Contato</h2>
+                </header>
+      <article><aside>
+  <dl>
             <dt>Endereço</dt>
             <dd>
                 <a
@@ -98,13 +185,13 @@
 
             <dt>Telefone</dt>
             <dd>
-                <a href="tel:6732911792">3291 1792</a>
+                <a href="tel:6732911792">3291 1792</a> ou
                 <a href="tel:67999631792">99963 1792</a>
             </dd>
 
             <dt>Whatsapp</dt>
             <dd>
-                <a href="wa.me/5567999631792">99963 1792</a>
+                <a href="http://wa.me/5567999631792">99963 1792</a>
             </dd>
 
             <dt>Facebook</dt>
@@ -117,6 +204,9 @@
                 <a href="mailto:mercalencar@hotmail.com ">mercalencar@hotmail.com </a>
             </dd>
         </dl>
+    </aside>
+</article>
+      
     </footer>
 </body>
 
