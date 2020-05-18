@@ -4,19 +4,19 @@
 <html lang="pt-br">
 
 <head>
-    <link rel="icon" href="https://via.placeholder.com/70x70">
-    <link rel="stylesheet" href="https://andybrewer.github.io/mvp/mvp.css">
+  <link rel="stylesheet" href="https://andybrewer.github.io/mvp/mvp.css">
 
-    <meta charset="utf-8">
-    
+  <meta charset="utf-8">
+
   <meta name="description" content="Mercado Alencar, a melhor cesta básica de Coxim e Região ">
   <meta name="keywords" content="Mercado Alencar, Mercado, Coxim, Merceria, Supermercado, Comprar, Sacolão, Cesta, Cesta Básica, Mato Grosso do Sul, Brasil">
   <meta name="author" content="Alan Balen Schio">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Mercado Alencar</title>
+  <title>Mercado Alencar</title>
+  <link rel="icon" type="image/png" href="cestinha.png" />
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165362384-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -26,154 +26,230 @@
     gtag('config', 'UA-165362384-1');
   </script>
 
-    
-    <style type="text/css">
-        :root {
-            
-        }
-        html, body {
-        margin: 0;
-        padding: 0
-        }
-        a b, a em, a i, a strong, button{
 
-             padding: .5rem 2rem;
-        }
+  <style type="text/css">
+    :root {
 
-        body {
-            scroll-behavior: smooth;
-        }
+    }
+    html, body {
+      margin: 0;
+      padding: 0
+    }
+    a b, a em, a i, a strong, button{
 
-        dt {
-            font-weight: bold;
-            font-size: .8rem
-        }
-        dd {
-            font-size: .9rem
-        }
+     padding: .5rem 2rem;
+   }
 
-        dd a ,
-         dd a:visited ,
-          dd a:active ,
-           dd a:link{
-            color: var( --color);
-            text-decoration: none;
-            font-style: italic;
-        }
+   body {
+    scroll-behavior: smooth;
+  }
+
+  dt {
+    font-weight: bold;
+    font-size: .8rem
+  }
+  dd {
+    font-size: .9rem
+  }
+
+  dd a ,
+  dd a:visited ,
+  dd a:active ,
+  dd a:link{
+    color: var( --color);
+    text-decoration: none;
+    font-style: italic;
+  }
 
 
-        header {
-            padding: 0 ;
-            margin: 0
-        }
+  header {
+    padding: 0 ;
+    margin: 0
+  }
 
-        hr {
+  hr {
     transform: skewY(3deg);
-            background-color: var(--color);
-        }
+    background-color: var(--color);
+  }
 
-         article aside {
-                border-left-color: var(--color);
-         }
+  article aside {
+    border-left-color: var(--color);
+  }
 
-         footer, header, main {
-             max-width: 100%;
-         }
-         header {
-             vertical-align: center;
-             display:flex;
-             padding: 2px 20px;
-         }
-         header h1 {
-             padding-left: 30px;
-         }
-    </style>
+  footer, header, main {
+   max-width: 100%;
+ }
+ header nav {
+   vertical-align: center;
+   display:flex;
+   padding: 2px 20px;
+ }
+ header h1 {
+   padding-left: 30px;
+ }
+ section aside {
+
+  border: 1px solid var(--color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow) var(--color-shadow);
+  margin: 2px;
+  padding: 2px;
+  width: calc(var(--width-card) / 2 );
+
+  text-align: center;
+}
+a b, a em, a i, a strong, button {
+  padding: 2px 5px;
+}
+a em, a i {
+ border: none;
+ border-radius: var(--border-radius);
+ color: var(--color);
+ display: inline-block;
+ padding: 0px !important;
+ font-size: 12px;
+ font-style: normal;
+ font-weight: 400;
+}
+section aside p {
+  min-height: 80px;
+}
+
+
+@media (max-width: 768px) {
+  section aside p {
+    min-height: 50px;
+    font-size:18px;
+  }
+
+  section aside p small {
+
+    color: black !important;
+    font-weight: 700
+  } 
+  section aside { 
+
+
+    width: 100%;
+  }
+  section aside h3 {
+    font-size:48px;
+  }
+  a {
+    display: block;
+  }
+  a b  {
+    box-sizing: border-box;
+    margin: 5px;
+    width: 90%;
+    padding: 10px
+  }
+}
+</style>
+
 </head>
 
 <body>
-    <header>
-         <img alt="Logo" src="cestinha.png" height="70"> <h1>Mercado Alencar</h1>
-       
-    </header>
-    <main>
-        <section id="sacoloes">
-            <header>
-                <h2>O Nosso Sacolão</h2>
-                </header>
-     
-     
-            <aside>
-                <h3><small>R$</small>300,00</h3>
-                <p><small>Alimenta a família inteira.</small></p>
-                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 300?"><i>Quero saber o que vem</i></a>
-                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 300"><b>Quero um</b></a></p>
-            </aside>
-            <aside>
-                <h3><small>R$</small>200,00</h3>
-                <p><small>Alimenta três adultos ou dois adultos e duas crianças.</small></p>
-                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 200?"><i>Quero saber o que vem</i></a>
-                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 200"><b>Quero um</b></a></p>
-            </aside>
-            <aside>
-                <h3><small>R$</small>150,00</h3>
-                <p><small>Alimenta dois adulto e uma criança.</small></p>
-                 <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 150?"><i>Quero saber o que vem</i></a>
-                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 150"><b>Quero um</b></a></p>
-            </aside>
-            <aside>
-                <h3><small>R$</small>100,00</h3>
-                <p><small>Alimenta dois adultos.</small></p>
-                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 100?"><i>Quero saber o que vem</i></a>
-                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 100"><b>Quero um</b></a></p>
-            </aside>
-            <aside>
-                <h3><small>R$</small>50,00</h3>
-                <p><small>Alimenta um adulto.</small></p>
-                <p><a href="http://wa.me/5567999631792?text=O que vem no sacolão de 50?"><i>Quero saber o que vem</i></a>
-                    <a href="http://wa.me/5567999631792?text=Quero um sacolão de 50"><b>Quero um</b></a></p>
-            </aside>
+  <header>
+    <nav>
+     <img alt="Logo" src="cestinha.png" height="70"> <h1>Mercado Alencar</h1>
+   </nav>
+   <h3> A melhor cesta básica de Coxim e Região  
+   </header>
+   <main>
+    <section id="sacoloes">
+      <header>
+        <h2>Conheça as nossas cestas. </h2>
+        <small>De 50 à 300, temos 5 tipos de cestas.</small>
+      </header>
 
-        <hr>
-    
+
+      <aside>
+        <h3><small>R$</small>300,00</h3>
+        <p><small>Alimenta a família inteira.</small></p>
+        <p>
+          <a href="http://wa.me/5567999631792?text=Quero um sacolão de 300"><b>Quero um</b></a>
+
+          <a href="http://wa.me/5567999631792?text=O que vem no sacolão de 300?"><i>Quero saber o que vem</i></a>
+        </p>
+      </aside>
+      <aside>
+        <h3><small>R$</small>200,00</h3>
+        <p><small>Alimenta três adultos ou dois adultos e duas crianças.</small></p>
+        <p> <a href="http://wa.me/5567999631792?text=Quero um sacolão de 200"><b>Quero um</b></a>
+          <a href="http://wa.me/5567999631792?text=O que vem no sacolão de 200?"><i>Quero saber o que vem</i></a>
+
+        </p>
+      </aside>
+      <aside>
+        <h3><small>R$</small>150,00</h3>
+        <p><small>Alimenta dois adulto e uma criança.</small></p>
+        <p> <a href="http://wa.me/5567999631792?text=Quero um sacolão de 150"><b>Quero um</b></a>
+          <a href="http://wa.me/5567999631792?text=O que vem no sacolão de 150?"><i>Quero saber o que vem</i></a>
+
+
+        </p>
+      </aside>
+      <aside>
+        <h3><small>R$</small>100,00</h3>
+        <p><small>Alimenta dois adultos.</small></p>
+        <p> <a href="http://wa.me/5567999631792?text=Quero um sacolão de 100"><b>Quero um</b></a>
+
+          <a href="http://wa.me/5567999631792?text=O que vem no sacolão de 100?"><i>Quero saber o que vem</i></a>
+
+        </p>
+      </aside>
+      <aside>
+        <h3><small>R$</small>50,00</h3>
+        <p><small>Alimenta um adulto.</small></p>
+        <p>  <a href="http://wa.me/5567999631792?text=Quero um sacolão de 50"><b>Quero um</b></a>
+          <a href="http://wa.me/5567999631792?text=O que vem no sacolão de 50?"><i>Quero saber o que vem</i></a>
+
+
+        </p>
+      </aside>
+
+      <hr>
+
     </main>
     <footer id="contato">
-          <header>
-                <h2>Contato</h2>
-                </header>
+      <header>
+        <h2>Contato</h2>
+      </header>
       <article><aside>
-  <dl>
-            <dt>Endereço</dt>
-            <dd>
-                <a
-                    href="https://www.google.com/maps/place/Mercado+Alencar/@-18.496089,-54.7489195,15z/data=!4m2!3m1!1s0x0:0x463e729cdfebb88d?sa=X&ved=2ahUKEwjU5bz5kvroAhXMGbkGHYHZAUAQ_BIwCnoECBcQCA">Avenida
-                    Mato Grosso do Sul, nº 1351, Bairro Senhor Divino. Coxim - MS </a>
-            </dd>
+        <dl>
+          <dt>Endereço</dt>
+          <dd>
+            <a
+            href="https://www.google.com/maps/place/Mercado+Alencar/@-18.496089,-54.7489195,15z/data=!4m2!3m1!1s0x0:0x463e729cdfebb88d?sa=X&ved=2ahUKEwjU5bz5kvroAhXMGbkGHYHZAUAQ_BIwCnoECBcQCA">Avenida
+          Mato Grosso do Sul, nº 1351, Bairro Senhor Divino. Coxim - MS </a>
+        </dd>
 
-            <dt>Telefone</dt>
-            <dd>
-                <a href="tel:6732911792">3291 1792</a> ou
-                <a href="tel:67999631792">99963 1792</a>
-            </dd>
+        <dt>Telefone</dt>
+        <dd>
+          <a href="tel:6732911792">3291 1792</a> ou
+          <a href="tel:67999631792">99963 1792</a>
+        </dd>
 
-            <dt>Whatsapp</dt>
-            <dd>
-                <a href="http://wa.me/5567999631792">99963 1792</a>
-            </dd>
+        <dt>Whatsapp</dt>
+        <dd>
+          <a href="http://wa.me/5567999631792">99963 1792</a>
+        </dd>
 
-            <dt>Facebook</dt>
-            <dd>
-                <a href="https://pt-br.facebook.com/mercadoalencar">Mercado Alencar</a>
-            </dd>
+        <dt>Facebook</dt>
+        <dd>
+          <a href="https://pt-br.facebook.com/mercadoalencar">Mercado Alencar</a>
+        </dd>
 
-            <dt>E-mail</dt>
-            <dd>
-                <a href="mailto:mercalencar@hotmail.com ">mercalencar@hotmail.com </a>
-            </dd>
-        </dl>
+        <dt>E-mail</dt>
+        <dd>
+          <a href="mailto:mercalencar@hotmail.com ">mercalencar@hotmail.com </a>
+        </dd>
+      </dl>
     </aside>
-</article>
-      
-    </footer>
+  </article>
+
+</footer>
 </body>
 
 </html>
