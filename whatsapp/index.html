@@ -65,7 +65,8 @@ font-weight:600;
     mask: '(00)00000-0000'
   });
 		
-		const submitedForm = () => {
+		const submitedForm = (event) => {
+			event.preventDefault()
 		console.log(form);
 		}
 		
