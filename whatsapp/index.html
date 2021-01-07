@@ -46,7 +46,7 @@ font-weight:600;
 		<h2>RECEBA NOVIDADES NO SEU WHATSAPP</h2>
 		<form>
 	<div class="input-group">
-         <input type="text"  id="phone-mask" class="form-control" placeholder="67 00000 0000">
+         <input type="text"  name="phone" id="phone" class="form-control" placeholder="67 00000 0000" required>
          <span class="input-group-btn">
          <button class="btn">QUERO RECEBER NOVIDADES</button>
          </span>
@@ -59,13 +59,13 @@ font-weight:600;
 </section>
 	<script>
 		var phoneMask = IMask(
-  document.getElementById('phone-mask'), {
+  document.getElementById('phone'), {
     mask: '(00)00000-0000'
   });
 		
 		const submitedForm = (event) => {
 			event.preventDefault()
-		console.log(this.form);
+		console.log(event.target[0].value);
 		}
 		
 		
