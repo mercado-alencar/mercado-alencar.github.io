@@ -46,12 +46,14 @@ font-weight:600;
 <div class="col-sm-12">
 	<div class="content">
 		<h2>RECEBA NOVIDADES NO SEU WHATSAPP</h2>
+		<form>
 	<div class="input-group">
-         <input type="text"  id="phone-mask" class="form-control" placeholder="">
+         <input type="text"  id="phone-mask" class="form-control" placeholder="67 00000 0000">
          <span class="input-group-btn">
-         <button class="btn" type="submit">Subscribe Now</button>
+         <button class="btn">QUERO RECEBER NOVIDADES</button>
          </span>
           </div>
+		</form>
 	</div>
 </div>
 </div>
@@ -62,6 +64,13 @@ font-weight:600;
   document.getElementById('phone-mask'), {
     mask: '(00)00000-0000'
   });
+		
+		const submitedForm = () => {
+		console.log(form);
+		}
+		
+		
+		document.querySelector('form').onsubmit = submitedForm;
 	</script>
 </body>
 </html>
