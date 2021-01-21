@@ -57,20 +57,7 @@ font-weight:600;
 </div>
 </div>
 </section>
-	<script>
-		var phoneMask = IMask(
-  document.getElementById('phone'), {
-    mask: '(00)00000-0000'
-  });
-		
-		const submitedForm = (event) => {
-			event.preventDefault()
-		console.log(event.target[0].value);
-			alet('ok')
-		}
-		
-		
-		document.querySelector('form').onsubmit = submitedForm;
-	</script>
+
+	<script src="main.js" type="module"> </script>
 </body>
 </html>
