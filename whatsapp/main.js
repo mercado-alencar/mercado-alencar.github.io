@@ -10,7 +10,7 @@ var phoneMask = IMask(
 		const submitedForm = (event) => {
 			event.preventDefault()
 		const number = event.target[0].value;
-    Request.post(url', {
+    Request.post(url, {
     body: {
         number: number
     }
