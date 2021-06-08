@@ -25,11 +25,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.35275978"
-     inkscape:cx="856.10666"
+     inkscape:cx="792.32389"
      inkscape:cy="324.58349"
      inkscape:window-width="1359"
      inkscape:window-height="1041"
-     inkscape:window-x="552"
+     inkscape:window-x="545"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -562,6 +562,30 @@
        width="347.26181"
        height="133.23514"
        id="rect170687" />
+    <rect
+       x="29.765298"
+       y="769.64556"
+       width="718.61933"
+       height="75.121942"
+       id="rect1826" />
+    <rect
+       x="29.765298"
+       y="769.64556"
+       width="718.61933"
+       height="75.121942"
+       id="rect1828" />
+    <rect
+       x="29.765298"
+       y="769.64556"
+       width="718.61933"
+       height="75.121942"
+       id="rect1830" />
+    <rect
+       x="29.765298"
+       y="769.64556"
+       width="718.61933"
+       height="75.121942"
+       id="rect1832" />
   </defs>
   <g
      inkscape:label="Camada 1"
@@ -571,8 +595,8 @@
        id="g147835-4"
        transform="translate(-233.2619)"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\cabecalho-1.png"
-       inkscape:export-xdpi="49"
-       inkscape:export-ydpi="49">
+       inkscape:export-xdpi="145.26617"
+       inkscape:export-ydpi="145.26617">
       <path
          style="fill:#04af3a;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 443.08363,0 v 14.862378 c 0,0 -22.49052,15.01829 -35.43945,16.616499 C 386.37315,34.104232 362.59763,9.7677963 344.53856,19.157167 325.42473,29.094934 308.90111,32.105145 288.14671,31.865441 267.39232,31.625738 233.64795,20.317364 233.64795,20.317364 L 233.2619,0 Z"
@@ -2679,8 +2703,8 @@
        id="g8919"
        transform="rotate(180,104.91087,105.20846)"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-1-b.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="145.26617"
+       inkscape:export-ydpi="145.26617">
       <path
          style="fill:#ff0601;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 209.82173,0 v 20.112646 c 0,0 -23.03936,10.988439 -35.43945,11.366231 C 159.77695,31.923855 146.46475,21.865688 131.90271,20.657244 101.18679,18.108256 76.79009,41.537631 39.763061,28.401408 24.412322,22.955366 23.81932,19.23162 0,0 Z"
@@ -2692,38 +2716,44 @@
          id="path8917"
          sodipodi:nodetypes="ccssscc" />
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.43836484,0,0,-0.13608338,-2.9792128,313.76594)"
-       id="text88868"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect88870);mix-blend-mode:normal;fill:url(#linearGradient89004);fill-opacity:1;stroke:none;stroke-width:3.74929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter89105);opacity:0.39939024"
-       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-coxim.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         x="29.765625"
-         y="806.1397"
-         id="tspan174445"><tspan
-           style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
-           id="tspan174443">AS MELHORES CESTAS</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.43661566,0,0,0.43661566,-2.5660364,-148.74952)"
-       id="text75782"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect75784);fill:#ffd500;fill-opacity:1;stroke:#ff0601;stroke-opacity:1;stroke-width:3.74929291;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stroke-linejoin:round;stroke-linecap:round"
-       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-coxim.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         x="29.765625"
-         y="806.1397"
-         id="tspan174449"><tspan
-           style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
-           id="tspan174447">AS MELHORES CESTAS</tspan></tspan></text>
+    <g
+       id="g1784"
+       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-1.png"
+       inkscape:export-xdpi="145.26617"
+       inkscape:export-ydpi="145.26617">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.43836484,0,0,-0.13608338,-2.9792128,313.76594)"
+         id="text88868"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect88870);mix-blend-mode:normal;fill:url(#linearGradient89004);fill-opacity:1;stroke:none;stroke-width:3.74929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter89105);opacity:0.39939024"
+         inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-coxim.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           x="29.765625"
+           y="806.1397"
+           id="tspan2965"><tspan
+             style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             id="tspan2963">AS MELHORES CESTAS</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.43661566,0,0,0.43661566,-2.5660364,-148.74952)"
+         id="text75782"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect75784);fill:#ffd500;fill-opacity:1;stroke:#ff0601;stroke-opacity:1;stroke-width:3.74929291;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stroke-linejoin:round;stroke-linecap:round"
+         inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-coxim.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           x="29.765625"
+           y="806.1397"
+           id="tspan2969"><tspan
+             style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             id="tspan2967">AS MELHORES CESTAS</tspan></tspan></text>
+    </g>
     <g
        id="g103846"
        transform="rotate(180,221.54182,105.20846)"
-       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2-b.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2.png"
+       inkscape:export-xdpi="145.27"
+       inkscape:export-ydpi="145.27">
       <path
          style="fill:#0afc57;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 209.82173,0 v 20.112646 c 0,0 -23.03936,10.988439 -35.43945,11.366231 C 159.77695,31.923855 146.46475,21.865688 131.90271,20.657244 101.18679,18.108256 76.79009,41.537631 39.763061,28.401408 24.412322,22.955366 23.81932,19.23162 0,0 Z"
@@ -2735,37 +2765,44 @@
          id="path103844"
          sodipodi:nodetypes="ccssscc" />
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.43836484,0,0,-0.13608338,230.28269,397.77022)"
-       id="text103850"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect103858);opacity:0.39939;mix-blend-mode:normal;fill:url(#linearGradient103862);fill-opacity:1;stroke:none;stroke-width:3.74929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter89105)"
-       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         x="29.765625"
-         y="806.1397"
-         id="tspan174453"><tspan
-           style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
-           id="tspan174451">AS MELHORES CESTAS</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.43661566,0,0,0.43661566,230.69586,-64.745235)"
-       id="text103856"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect103860);fill:#013897;fill-opacity:1;stroke:#0afc57;stroke-width:3.74929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         x="29.765625"
-         y="806.1397"
-         id="tspan174457"><tspan
-           style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
-           id="tspan174455">AS MELHORES CESTAS</tspan></tspan></text>
+    <g
+       id="g1776"
+       transform="translate(0,-84.00428)"
+       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2-b.png"
+       inkscape:export-xdpi="145.27"
+       inkscape:export-ydpi="145.27">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.43836484,0,0,-0.13608338,230.28269,397.77022)"
+         id="text103850"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect103858);opacity:0.39939;mix-blend-mode:normal;fill:url(#linearGradient103862);fill-opacity:1;stroke:none;stroke-width:3.74929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter89105)"
+         inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           x="29.765625"
+           y="806.1397"
+           id="tspan2973"><tspan
+             style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             id="tspan2971">AS MELHORES CESTAS</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.43661566,0,0,0.43661566,230.69586,-64.745235)"
+         id="text103856"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect103860);fill:#013897;fill-opacity:1;stroke:#0afc57;stroke-width:3.74929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           x="29.765625"
+           y="806.1397"
+           id="tspan2977"><tspan
+             style="font-family:Aharoni;-inkscape-font-specification:Aharoni"
+             id="tspan2975">AS MELHORES CESTAS</tspan></tspan></text>
+    </g>
     <g
        id="g147835"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\cabecalho-2.png"
-       inkscape:export-xdpi="49"
-       inkscape:export-ydpi="49">
+       inkscape:export-xdpi="145.26619"
+       inkscape:export-ydpi="145.26619">
       <path
          style="fill:#b00300;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 443.08363,0 v 14.862378 c 0,0 -22.49052,15.01829 -35.43945,16.616499 C 386.37315,34.104232 362.59763,9.7677963 344.53856,19.157167 325.42473,29.094934 308.90111,32.105145 288.14671,31.865441 267.39232,31.625738 233.64795,20.317364 233.64795,20.317364 L 233.2619,0 Z"
@@ -4875,60 +4912,94 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect162259);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="773.89844"
          y="80.077197"
-         id="tspan174461"><tspan
+         id="tspan2981"><tspan
            dx="0 25.429688 25.429688 25.429688 25.429688 14.0625 25.429688 25.429688"
-           id="tspan174459">3291 179</tspan></tspan></text>
+           id="tspan2979">3291 179</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.21339369,0,0,0.21339369,7.7126971,34.57809)"
        id="text164939"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect164941);fill:#000000;fill-opacity:1;stroke:#f4f4f4;stroke-width:4.68617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\telefones-coxim.png"
-       inkscape:export-xdpi="59.774982"
-       inkscape:export-ydpi="59.774982"><tspan
+       inkscape:export-xdpi="229.5"
+       inkscape:export-ydpi="229.5"><tspan
          x="739.88086"
          y="-276.75093"
-         id="tspan174465"><tspan
+         id="tspan2985"><tspan
            style="font-weight:bold;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-           id="tspan174463">3291 1791</tspan></tspan></text>
+           id="tspan2983">3291 1791</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.21339369,0,0,0.21339369,2.9321782,43.285993)"
        id="text169605"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect169607);fill:#000000;fill-opacity:1;stroke:#f4f4f4;stroke-width:4.68617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\telefones-coxim.png"
-       inkscape:export-xdpi="59.774982"
-       inkscape:export-ydpi="59.774982"><tspan
+       inkscape:export-xdpi="229.5"
+       inkscape:export-ydpi="229.5"><tspan
          x="739.88086"
          y="-276.75093"
-         id="tspan174469"><tspan
+         id="tspan2989"><tspan
            style="font-weight:bold;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-           id="tspan174467">99963 1791</tspan></tspan></text>
+           id="tspan2987">99963 1791</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.21339369,0,0,0.21339369,78.028784,34.57809)"
        id="text170679"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect170685);fill:#000000;fill-opacity:1;stroke:#f4f4f4;stroke-width:4.68617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\telefones-sonora.png"
-       inkscape:export-xdpi="59.774982"
-       inkscape:export-ydpi="59.774982"><tspan
+       inkscape:export-xdpi="229.5"
+       inkscape:export-ydpi="229.5"><tspan
          x="739.88086"
          y="-276.75093"
-         id="tspan174473"><tspan
+         id="tspan2993"><tspan
            style="font-weight:bold;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-           id="tspan174471">3291 1791</tspan></tspan></text>
+           id="tspan2991">3291 1791</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.21339369,0,0,0.21339369,73.248265,43.285993)"
        id="text170683"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect170687);fill:#000000;fill-opacity:1;stroke:#f4f4f4;stroke-width:4.68617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\telefones-sonora.png"
-       inkscape:export-xdpi="59.774982"
-       inkscape:export-ydpi="59.774982"><tspan
+       inkscape:export-xdpi="229.5"
+       inkscape:export-ydpi="229.5"><tspan
          x="739.88086"
          y="-276.75093"
-         id="tspan174477"><tspan
+         id="tspan2997"><tspan
            style="font-weight:bold;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-           id="tspan174475">99833 1791</tspan></tspan></text>
+           id="tspan2995">99833 1791</tspan></tspan></text>
+    <g
+       id="g1790"
+       transform="rotate(180,104.91087,145.33551)"
+       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-1-b.png"
+       inkscape:export-xdpi="145.26617"
+       inkscape:export-ydpi="145.26617">
+      <path
+         style="fill:#ff0601;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 209.82173,0 v 20.112646 c 0,0 -23.03936,10.988439 -35.43945,11.366231 C 159.77695,31.923855 146.46475,21.865688 131.90271,20.657244 101.18679,18.108256 76.79009,41.537631 39.763061,28.401408 24.412322,22.955366 23.81932,19.23162 0,0 Z"
+         id="path1786"
+         sodipodi:nodetypes="ccaascc" />
+      <path
+         style="fill:#b00300;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 0,0 v 20.112646 c 0,0 34.328783,15.545363 52.417723,15.545363 30.11425,10e-7 57.150147,-23.382424 87.264397,-23.382424 11.3976,0 21.96159,11.578529 33.02771,8.849748 C 189.05416,17.095008 209.82173,0 209.82173,0 Z"
+         id="path1788"
+         sodipodi:nodetypes="ccssscc" />
+    </g>
+    <g
+       id="g1810"
+       transform="rotate(180,221.54182,145.33551)"
+       inkscape:export-filename="C:\Users\admin\Pictures\mercado\modelo cestas\rodape-2-b.png"
+       inkscape:export-xdpi="145.27"
+       inkscape:export-ydpi="145.27">
+      <path
+         style="fill:#0afc57;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 209.82173,0 v 20.112646 c 0,0 -23.03936,10.988439 -35.43945,11.366231 C 159.77695,31.923855 146.46475,21.865688 131.90271,20.657244 101.18679,18.108256 76.79009,41.537631 39.763061,28.401408 24.412322,22.955366 23.81932,19.23162 0,0 Z"
+         id="path1806"
+         sodipodi:nodetypes="ccaascc" />
+      <path
+         style="fill:#04b03a;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 0,0 v 20.112646 c 0,0 34.328783,15.545363 52.417723,15.545363 30.11425,10e-7 57.150147,-23.382424 87.264397,-23.382424 11.3976,0 21.96159,11.578529 33.02771,8.849748 C 189.05416,17.095008 209.82173,0 209.82173,0 Z"
+         id="path1808"
+         sodipodi:nodetypes="ccssscc" />
+    </g>
   </g>
 </svg>
